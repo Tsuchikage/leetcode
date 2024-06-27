@@ -1,2 +1,2 @@
-# leetcode
-LeetCode Tasks
+## LeetCode
+### Solving problems on LeetCode
