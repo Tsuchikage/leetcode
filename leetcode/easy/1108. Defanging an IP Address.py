@@ -10,4 +10,7 @@ class Solution:
                 
             elif ruleKey == "color" and item[1] == ruleValue:
                 count += 1
+                
+            elif ruleKey == "name" and item[2] == ruleValue:
+                count += 1
         return count
